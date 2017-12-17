@@ -1,0 +1,26 @@
+http://cuiqingcai.com/912.html
+如果提示 Microsoft Visual C++??安?，? ?我 下?支持的?。
+http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+->未成功(for python2.7的編譯器)
+
+安裝指南(其他參考)
+http://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/install.html
+http://thelightroad.blogspot.tw/2012/09/scrapy.html
+############################################################################
+
+http://twistedmatrix.com/trac/wiki/Downloads
+
+pip install Twisted
+->未成功 因為沒有Microsoft Visual C++ 14.0
+############################################################################
+
+Microsoft Visual C++ 14.0
+http://landinghub.visualstudio.com/visual-cpp-build-tools
+WindowsCompilers
+https://wiki.python.org/moin/WindowsCompilers#Microsoft_Visual_C.2B-.2B-_14.0_standalone:_Visual_C.2B-.2B-_Build_Tools_2015_.28x86.2C_x64.2C_ARM.29
+！！！更多->系統管理員執行->成功
+############################################################################
+python -m pip install --upgrade pip
+
+pip install Scrapy
+
